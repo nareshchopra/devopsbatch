@@ -5,3 +5,7 @@ git config --global user.name ""
 git config --global user.email ""
 git config --global --edit
 git commit --amend --reset-author 
+git remote add origin "repository URL"
+git remote set-url origin "repositroy URL"
+git remote -v
+git push origin master
