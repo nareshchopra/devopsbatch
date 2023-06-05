@@ -10,3 +10,5 @@ git remote set-url origin "repositroy URL"
 git remote -v
 git push origin master
 git checkout -b dev
+git branch
+git clone "URL"
