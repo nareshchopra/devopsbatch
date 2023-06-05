@@ -12,3 +12,4 @@ git push origin master
 git checkout -b dev
 git branch
 git clone "URL"
+git pull origin master
