@@ -14,3 +14,4 @@ git branch
 git clone "URL"
 git pull origin master
 git branch "branchname"
+git merge dev - To merge dev branch to master branch
